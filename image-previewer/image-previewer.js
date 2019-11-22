@@ -3,7 +3,7 @@ class ImagePreviewer extends Application {
     static get defaultOptions() {
         this.imageUrl = '';
         const options = super.defaultOptions;
-        options.template = "public/modules/image-previewer/template.html";
+        options.template = "modules/image-previewer/template.html";
         options.width = 200;
         options.height = 200;
         options.classes = ['image-previewer'];
@@ -48,7 +48,7 @@ Hooks.on('renderFilePicker', (app, html, data) => {
             y: elementBox.y
         }
         // get the proper image path
-        let path = html.find('.current-dir input').val().replace('public/', '') + '/' + ev.target.dataset.path;
+        let path = html.find('.current-dir input').val().replace('Data/', '') + '/' + ev.target.dataset.path;
         let fileExtension = path.split('.')[path.split('.').length - 1].toLowerCase();
         if (['png', 'jpg'].includes(fileExtension)) {
             imagePreviewer.showPreview(path, previewPos);

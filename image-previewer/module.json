@@ -9,5 +9,6 @@
 	"packs": [],
     "url": "https://github.com/syl3r86/image-previewer",
     "manifest": "https://raw.githubusercontent.com/syl3r86/image-previewer/master/image-previewer/module.json",
-    "download": "https://github.com/syl3r86/image-previewer/raw/master/image-previewer.zip"
+    "download": "https://github.com/syl3r86/image-previewer/raw/master/image-previewer.zip",
+    "minimumCoreVersion": "0.4.0"
 }
