@@ -1,4 +1,7 @@
 # Image Previewer
+> This version is for Foundry v0.4.1 and up. For the previous version please visit 
+https://github.com/syl3r86/image-previewer/tree/pre-0.4.0
+
 A little app to preview images on hover in the file picker menu.
 
 ## Installation
