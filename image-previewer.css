@@ -1,0 +1,21 @@
+.image-previewer {
+    background:none;
+    box-shadow:none;
+}
+
+.image-previewer header {
+    display:none;
+    
+}
+
+.image-previewer .window-content {
+    background:none;
+    overflow:hidden;
+}
+
+.image-previewer img{
+    border:none;
+    object-fit:contain;
+    width:200px;
+    height:200px;
+}
