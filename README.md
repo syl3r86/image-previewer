@@ -2,10 +2,11 @@
 A little app to preview images on hover in the file picker menu.
 
 ## Installation
-1. Download the [image-previewer.zip](https://github.com/syl3r86/image-previewer/raw/master/image-previewer.zip)
-2. Unzip it into FoundryVTT/resources/app/public/modules
-3. Restart Foundry if it was running.
-4. Enable the module in the Module Configuration
+1. Copy this link and use it in Foundrys Module Manager to install the Module
+
+    > https://raw.githubusercontent.com/syl3r86/image-previewer/pre-0.4.0/module.json
+    
+2. Enable the Module in your Worlds Module Settings
 
 ![example](preview.jpg)
 
