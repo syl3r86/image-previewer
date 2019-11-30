@@ -2,13 +2,13 @@
 	"name": "image-previewer",
 	"title": "Image Previewer",
 	"description": "A little app to preview images on hover in the file picker menu.",
-	"version": "0.1",
+	"version": "0.2",
 	"author": "Felix",
 	"scripts": ["./image-previewer.js"],
 	"styles": ["./image-previewer.css"],
 	"packs": [],
     "url": "https://github.com/syl3r86/image-previewer",
-    "manifest": "https://raw.githubusercontent.com/syl3r86/image-previewer/pre-0.4.0/image-previewer/module.json",
-    "download": "https://github.com/syl3r86/image-previewer/archive/pre-0.4.0.zip",
+    "manifest": "https://raw.githubusercontent.com/syl3r86/image-previewer/master/module.json",
+    "download": "https://github.com/syl3r86/image-previewer/archive/master.zip",
     "minimumCoreVersion": "0.4.0"
 }
