@@ -2,7 +2,7 @@
 	"name": "image-previewer",
 	"title": "Image Previewer",
 	"description": "A little app to preview images on hover in the file picker menu.",
-	"version": "0.2",
+	"version": "0.3",
 	"author": "Felix",
 	"scripts": ["./image-previewer.js"],
 	"styles": ["./image-previewer.css"],
