@@ -7,7 +7,7 @@ A little app to preview images on hover in the file picker menu.
 ## Installation
 1. Copy this link and use it in Foundrys Module Manager to install the Module
 
-    > https://raw.githubusercontent.com/syl3r86/image-previewer/master/module.json
+    > https://raw.githubusercontent.com/syl3r86/image-previewer/pre-0.4.4/module.json
     
 2. Enable the Module in your Worlds Module Settings
 
