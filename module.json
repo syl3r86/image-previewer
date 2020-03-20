@@ -3,7 +3,7 @@
 	"title": "Image Previewer",
 	"description": "A little app to preview images on hover in the file picker menu.",
 	"version": "0.4",
-	"author": "Felix",
+	"author": "Felix#6196",
 	"scripts": ["./image-previewer.js"],
 	"styles": ["./image-previewer.css"],
 	"packs": [],
