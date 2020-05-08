@@ -50,7 +50,7 @@ Hooks.on('renderFilePicker', (app, html, data) => {
         // get the proper image path
         let path = ev.target.dataset.path;
         let fileExtension = path.split('.')[path.split('.').length - 1].toLowerCase();
-        if (['png', 'jpg', 'svg'].includes(fileExtension)) {
+        if (CONST.IMAGE_FILE_EXTENSIONS.includes(fileExtension)) {
             imagePreviewer.showPreview(path, previewPos);
         }
     }, ev => {
