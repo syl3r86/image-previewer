@@ -1,22 +1,16 @@
 # Image Previewer
-> This version is for Foundry v0.4.4 and up. For the previous version please visit 
-https://github.com/syl3r86/image-previewer/tree/pre-0.4.0
+> Updated for Foundry v0.9+
 
-A little app to preview images on hover in the file picker menu.
+A little app to preview images when you hover over them in the file picker menu.
 
 ## Installation
-1. Copy this link and use it in Foundrys Module Manager to install the Module
+1. You can use this link to install in Foundry's Module Manager
 
-    > https://raw.githubusercontent.com/syl3r86/image-previewer/master/module.json
-    
-2. Enable the Module in your Worlds Module Settings
+    > https://raw.githubusercontent.com/crnormand/image-previewer/release/module.json
 
-![example](preview.jpg)
+![example](image-previewer.webp)
 
 ## Contribution
-If you feel like supporting my work, feel free to leave a tip at my paypal felix.mueller.86@web.de
+If you like our work [Sponsor our development](https://github.com/sponsors/crnormand) or <a href="https://ko-fi.com/crnormand"><img height="36" src="https://cdn.ko-fi.com/cdn/kofi2.png?v=2"></a>
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Image Previewer - a module for Foundry VTT -</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/syl3r86?tab=repositories" property="cc:attributionName" rel="cc:attributionURL">Felix Müller</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development v 0.1.6](http://foundryvtt.com/pages/license.html).
+Join us on Discord: [GURPS Foundry-VTT Discord](https://discord.gg/6xJBcYWyED)
